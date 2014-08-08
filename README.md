@@ -10,3 +10,7 @@
 
 ## リンク
 https://github.com/quno/git-test
+
+## Author
+quno
+
