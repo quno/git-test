@@ -16,6 +16,5 @@ https://github.com/quno/git-test
 quno
 
 ## 参考
-GitHub実践入門 Pull Request による開発の変革
-http://gihyo.jp/book/2014/978-4-7741-6366-6
+{GitHub実践入門 Pull Request による開発の変革}(http://gihyo.jp/book/2014/978-4-7741-6366-6)
 
